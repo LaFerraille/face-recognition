@@ -31,6 +31,7 @@ To deploy your face detector, follow these steps:
 1. **Prerequisites**:
    - A functioning camera on your device.
    - Clone this repository in Google Colab.
+   - To run the emailing use case, you need to configure your own "App Password" to automatise the sending of emails (see [App Password tutorial](https://support.google.com/accounts/answer/185833?hl=fr)
 
 2. **Setup**:
    - Incorporate an Excel sheet with columns "Prénom" (First Name), "Nom" (Last Name), and "Email". This enables the feature to send emails to identified individuals.
