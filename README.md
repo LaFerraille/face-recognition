@@ -21,6 +21,8 @@ Face detection combines binary classification and localization to identify and l
 
 Other notable methods include the Histogram of Oriented Gradients (HOG), which analyzes gradients in small image patches to identify predominant directions, indicative of facial structures.
 
+![img](./img/HOG.png)
+
 ### Utilizing This Repository
 
 #### Launch Your Own Face Detector
